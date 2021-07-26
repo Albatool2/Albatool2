@@ -1,7 +1,7 @@
 - Hi there I'm Albatool👋  I graduated with a major in computer science 🌱 I’m currently learning Data Scence /Python/ML  .
   
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Albatool2&theme=midnight-purple_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Albatool2&theme=midnight-purple)
 
 
 <a href="mailto:YourEmail@gmail.com">![albatoolalshaer2.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
