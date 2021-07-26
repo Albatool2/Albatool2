@@ -6,6 +6,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Albatool2&layout=compact&theme=midnight-purple)
 
-<a href="mailto:YourEmail@gmail.com">![albatoolalshaer2.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="mailto:albatoolalshaer2@gmail.com">![albatolalshaer2@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="<https://www.linkedin.com/in/albatool-alshaer/>">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
