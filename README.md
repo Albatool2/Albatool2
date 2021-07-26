@@ -1,4 +1,4 @@
-- Hi there I'm Albatool👋 /n
+- Hi there I'm Albatool👋 \n
 -🌱 I’m currently learning ...Data Scence /Python/ML/n
 -📫 How to reach me: LinkedIn(Albatool Alshaer)/n
 
